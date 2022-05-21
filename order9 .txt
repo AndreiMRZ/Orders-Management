@@ -1,5 +1,0 @@
-Order
-Client Name:adsnada
-Product Name:produs   Amount:22
-Price:132123.0
-Total Price:2906706.0
