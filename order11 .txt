@@ -1,0 +1,6 @@
+Order
+Client Name:adsnada
+Product Name:produs
+Cantitate :10
+Price:132123.0
+Total Price:1321230.0
